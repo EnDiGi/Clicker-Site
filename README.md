@@ -1,4 +1,4 @@
-### Clicker Game Website
+#Clicker Game Website
 ---
 
 This is a simple yet functioning clicker-game! Don't play it cause it sucks!
