@@ -1,0 +1,62 @@
+body {
+    font-family: "Helvetica";
+    font-size: 30px
+}
+
+#main{
+    text-align: center;
+}
+
+#button{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-color: red;
+    border: 5px outset red;
+    border-radius: 5px;
+}
+
+#clickCounter{
+    font-size: 18px;
+}
+
+#shop {
+    position:absolute;
+    text-align: left;
+    left: 0%;
+    width:50%;
+    bottom: 0%
+}
+
+#stats {
+    position: absolute;
+    left: 50%;
+    bottom: 0%;
+    width: 50%;
+}
+
+.others{
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 24px;
+    border-bottom: 0px solid black;
+    border-right:2px solid black;
+    border-left:0px solid black;
+    border-top: 2px solid black;
+}
+
+.labels{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: black;
+    width: 100%;
+    text-align:center;
+}
+
+#coinIndicator {
+    position:absolute;
+    font-size:30px;
+    position:relative;
+}
